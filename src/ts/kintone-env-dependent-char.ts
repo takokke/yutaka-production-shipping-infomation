@@ -1,7 +1,7 @@
 import { KintoneRestAPIClient, KintoneRecordField } from "@kintone/rest-api-client";
 
 // リモートリポジトリ
-// https://github.com/takokke/kintone-yutaka-test-shipping-information
+// https://github.com/takokke/kintone-yutaka-production-shipping-information
 (() => {
     'use strict';
     /* 定数の定義*/
